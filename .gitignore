@@ -1,0 +1,11 @@
+# XView2 dataset
+XView2
+
+# Test models
+test
+
+# Checkpoint files
+checkpoints
+
+# VSCode
+.vscode
