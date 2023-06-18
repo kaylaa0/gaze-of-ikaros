@@ -76,7 +76,7 @@ The whole project aims to utilize various tools and research the best solution. 
 
 ### Prerequisites
 
-You need to sign up for [xView2](https://xview2.org/) in order to get download links.Once registered, you can retrieve the download links and insert them into the designated link field within the notebook. 
+You need to sign up for [xView2](https://xview2.org/) in order to get download links. Once registered, you can retrieve the download links and insert them into the designated link field within the notebook. 
   ```sh
   link = 'Insert download link'
   ```
