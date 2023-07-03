@@ -110,8 +110,8 @@ _You need to setup [Jupyter](https://jupyter.org/) to run locally_
 <!-- ROADMAP -->
 ## Roadmap
 - [x] Create README.md
-- [ ] Multi-language Support
-    - [ ] Japanese
+- [&ensp;] Multi-language Support
+    - [&ensp;] Japanese
 
 See the [open issues](https://github.com/kaylaa0/gaze-of-ikaros/issues) for a full list of proposed features (and known issues).
 
